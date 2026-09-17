@@ -1,0 +1,14 @@
+src/App.jsx
+src/components/AuthContext.jsx
+src/components/Navbar.jsx
+src/components/PrivateHeader.jsx
+src/main.jsx
+src/pages/Dashboard.jsx
+src/pages/Home.jsx
+src/pages/Login.jsx
+src/pages/NotFound.jsx
+src/pages/Perfil.jsx
+src/pages/Registro.jsx
+src/routes/PrivateRoutes.jsx
+src/routes/Routing.jsx
+src/styles.css

@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Colaborador Demo",
+      "email": "colaborador@intranova.com",
+      "password": "123456",
+      "area": "Operaciones",
+      "role": "Colaborador"
+    },
+    {
+      "id": 2,
+      "name": "Admin IntraNova",
+      "email": "admin@intranova.com",
+      "password": "admin123",
+      "area": "Tecnologia",
+      "role": "Administrador"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "title": "Onboarding Corporativo",
+      "description": "Ruta inicial para conocer procesos, cultura interna y herramientas esenciales.",
+      "category": "Induccion",
+      "level": "Inicial",
+      "progress": 80,
+      "status": "Activo"
+    },
+    {
+      "id": 2,
+      "title": "Seguridad de la Informacion",
+      "description": "Buenas practicas para proteger accesos, datos internos y recursos digitales.",
+      "category": "Seguridad",
+      "level": "Intermedio",
+      "progress": 60,
+      "status": "Pendiente"
+    },
+    {
+      "id": 3,
+      "title": "Gestion de Solicitudes",
+      "description": "Flujo operativo para crear, revisar y cerrar solicitudes internas.",
+      "category": "Operaciones",
+      "level": "Avanzado",
+      "progress": 45,
+      "status": "En curso"
+    }
+  ]
+}
